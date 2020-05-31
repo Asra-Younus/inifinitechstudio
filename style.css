@@ -1,0 +1,60 @@
+#header,#page{
+    background: radial-gradient(rgb(75, 69, 95), rgb(36, 31, 46));
+}
+#social{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-left: wheat;
+    opacity: 80%;
+}
+#social1{
+    width: 33px;
+    height: 33px;
+    margin: 5px;
+    border-left: white 3px;
+    opacity: 80%;
+}
+#logo{
+height: 200px;
+margin-right: 200px;
+}
+#welcome,#services,#project,#contact{
+    background: radial-gradient(bisque, aliceblue) ;
+}
+h3,h6,h5,h2{
+    text-align: center;
+    color: cornflowerblue;
+    text-shadow: 2px 2px 2px 2px darkgray;
+    font-weight: bolder;
+}
+iframe{
+    width: 100%;
+}
+#progress{
+ background-color: rgb(200, 220, 226)  
+}
+#language{
+background-image: url(images/coding-man_1098-18084.jpg);
+background-size: cover;
+}
+#services{
+    background-image: url(images/service.jpg);
+   background-size: cover;
+   
+}
+#quality{
+    background-image: url(images/qualities.jpg);
+    background-size: cover;
+      
+}
+#service:hover{
+    
+  box-shadow: 5px 5px 5px 5px lightslategrey;
+}
+#nav{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
