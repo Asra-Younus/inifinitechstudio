@@ -19,10 +19,10 @@
 height: 200px;
 margin-right: 200px;
 }
-#welcome,#services,#project,#contact{
+#welcome,#project,#contact{
     background: radial-gradient(bisque, aliceblue) ;
 }
-h3,h6,h5,h2{
+h3,h6,h2{
     text-align: center;
     color: cornflowerblue;
     text-shadow: 2px 2px 2px 2px darkgray;
